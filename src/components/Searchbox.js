@@ -16,7 +16,7 @@ export const Searchbox = () => {
                         className="btn text-danger"
                         onClick={ logout }
                     >
-                        Salir
+                        Sign out
                     </button>
                 </div>
             </div>

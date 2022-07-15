@@ -55,7 +55,7 @@ export const LoginPage = () => {
         const ok = await login( email, password );
 
         if ( !ok ) {
-            Swal.fire('Error', 'Verifique el usuario y contraseña', 'error');
+            Swal.fire('Error', 'Verify User and PW', 'error');
         }
     }
 
