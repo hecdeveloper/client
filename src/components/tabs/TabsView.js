@@ -4,7 +4,7 @@ import Panel from "./Panel";
 
 import { allChats } from "./data";
 
-import "./tabs.css";
+// import "./tabs.css";
 
 // const myInfluencers = [33, 81];
 

@@ -5,7 +5,7 @@ import { Messages } from '../components/Messages';
 import { ChatContext } from '../context/chat/ChatContext';
 
 
-import '../css/chat.css';
+// import '../css/chat.css';
 
 export const ChatPage = () => {
 
